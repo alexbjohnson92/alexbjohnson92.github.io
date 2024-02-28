@@ -7033,7 +7033,7 @@ input, textarea, button, a {
     }
 
     .side-navigation-wrapper {
-        width: 25rem;
+        width: 100%;
         -webkit-transform: translate3d(-25rem, 0, 0);
         -moz-transform: translate3d(-25rem, 0, 0);
         -ms-transform: translate3d(-25rem, 0, 0);
