@@ -874,14 +874,18 @@ h5.project-title{
 	padding-bottom:0rem;
 }
 
+.portfolio-home {
+	padding-top:4.6rem;
+}
+
 .portfolio-next .section-block-bottom {
 	padding-top: 0rem;
 	padding-bottom: 0rem;
 }
 
 @media only screen and (max-width: 960px){
-	.portfolio-next{
-		padding-top: 0rem;
+	.portfolio-home {
+		padding-top: 4.6rem;
 	}
 }
 
@@ -1109,7 +1113,7 @@ h5.project-title{
 .header .navigation-show{
 
 	height: 4.4rem;
-	margin-top: 1.2rem;
+	margin-top: .4rem;
 	background: none;
 }
 .side-navigation-wrapper .logo{
@@ -1145,7 +1149,7 @@ h5.project-title{
 .side-navigation-wrapper .navigation-hide{
 	width: 4.4rem;
 	height: 4.4rem;
-	margin-top: 1.7rem;
+	margin-top: 2rem;
 	margin-right: 2rem;
 }
 
@@ -1588,6 +1592,7 @@ h5.project-title{
 	text-transform: uppercase;
 	letter-spacing: .1rem;
 	line-height:2.4rem;
+	font-size:2rem;
 }
 
 .contact-2 p strong{
@@ -1624,6 +1629,12 @@ h5.project-title{
 .contact-2 a img:hover {
 	color:white;
 }
+
+@media only screen and (max-width: 768px) {
+    .contact-2 .width-6 {
+        padding-bottom:3rem;
+    }
+
 
 /*------------------------------------------------------------------
 [13. Project Pages]
@@ -2649,6 +2660,10 @@ a.disabled .text-line{
 .hero-4,
 .hero-5,
 .hero-6{
+	height: 96rem;
+}
+
+.hero-5 {
 	height: 96rem;
 }
 .hero-2{
