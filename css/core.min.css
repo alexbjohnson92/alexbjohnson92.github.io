@@ -1034,7 +1034,8 @@ body.boxed .wrapper-inner {
 }
 
 .mobile .side-navigation-wrapper.active {
-    position: absolute
+    position: absolute;
+    overflow:hidden;
 }
 
 .overlay-navigation-wrapper {
@@ -8073,7 +8074,7 @@ body.boxed .wrapper-inner {
 }
 
 .section-block.featured-media, body.boxed .section-block.featured-media {
-    padding-top:5rem;
+    padding-top:4.7rem;
 }
 
 body.boxed .section-block {
