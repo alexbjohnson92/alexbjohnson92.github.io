@@ -732,15 +732,15 @@ h5.project-title{
 	color: #1e1e1e;
 }
 .bkg-charcoal{
-	background-color: #141414; 
-	border-color: #141414;
+	background-color: #0A0A0A; 
+	border-color: #0A0A0A;
 }
 .bkg-hover-charcoal:hover{
-	background-color: #141414; 
-	border-color: #141414;
+	background-color: #0A0A0A; 
+	border-color: #0A0A0A;
 }
 .border-hover-charcoal:hover{
-	border-color: #141414;
+	border-color: #0A0A0A;
 }
 .color-charcoal,
 .color-hover-charcoal:hover{
@@ -904,8 +904,8 @@ h5.project-title{
 	padding-bottom: 7rem;
 }
 .section-block.error{
-	padding-top: 10rem;
-	padding-bottom: 10rem;
+	padding-top: 30rem;
+	padding-bottom: 20rem;
 }
 .footer-1 .footer-top{
 	padding-top: 9rem;
